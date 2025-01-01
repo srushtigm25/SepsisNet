@@ -1,2 +1,4 @@
 # SepsisNet
 This project aims to propose a novel framework for predicting sepsis mortality using graph transformers applied to clinical data originally in tabular format.
+
+Sepsis is a life-threatening condition resulting from an extreme immune response to infection, leading to organ dysfunction. Early and accurate prediction of sepsis mortality is crucial for improving patient outcomes. In this project, we propose a framework, SepsisNet, for predicting sepsis mortality using a graph transformer. Specifically, we will design and compare two variations within SepsisNet: SepsisNet-Graphormer. The proposed model assists clinicians in efficiently estimating the mortality rate of sepsis patients after discharge within specific time frames: 28 days, 90 days, and 1 year. This model will be evaluated over a publicly available medical dataset, MIMIC-IV for mortality prediction.
